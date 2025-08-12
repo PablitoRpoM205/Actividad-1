@@ -1,2 +1,2 @@
 # Actividad-1
-Primera evaluación de Programación de Software
+Primera evaluación de Programación de Software con Git
